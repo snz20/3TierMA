@@ -28,7 +28,7 @@ We introduce a three-tiered meta analysis approach for studying the shared genet
 5. Use the python code in calcOverlap.py to find the overlap between disease gene set and pathway gene sets. The shell script enrichment.sh contains the shell commands to calculate the overlaps using calcOverlap.py.
 6. Use the R code in EnrichmentAnalysis.R on the output from step 5 to perform hypergeometric enrichment analysis of the disease gene sets in the pathway gene sets.
 7. Use the pyhton code in combineOutputOfEnrichment.py to combine the output files (step 6) per pathway dataset.
-8. Open the output of step 7 in MS Excel and use Excel tools for calculating Fisher's combined p-values per pathway. Filter out the non-significant pathways in ASD and order the pathways in the ascending order of p-values. (We have provided the excel file with the formula under the name fisherComboP_disease_pathway.xls".)
+8. Open the output of step 7 in MS Excel and use Excel tools for calculating Fisher's combined p-values per pathway. Filter out the non-significant pathways in ASD and order the pathways in the ascending order of p-values. We have provided the excel file with the formula under the name fisherComboP_disease_pathway.xls".
 
 ---
 ## Data
