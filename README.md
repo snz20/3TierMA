@@ -29,7 +29,7 @@ We introduce a three-tiered meta analysis approach for studying the shared genet
 
 ---
 ## Data
-Pathway gene sets used in our study can be downloaded from [here](http://groups.csail.mit.edu/cb/3TierMA/data/Pathways.zip). The expression data used in our study can be downloaded directly from GEO using the "GEOquery" package in R. The accession numbers for the GEO studies are listed [here](http://groups.csail.mit.edu/cb/3TierMA/data/Accessions.docx).
+Pathway gene sets used in our study are provided in the _Pathways.zip_ file. The expression data used in our study can be downloaded directly from GEO using the "GEOquery" package in R. The accession numbers for the GEO studies are listed in the _Accessions.docx_ file.
 
 ---
 ## License
