@@ -7,6 +7,8 @@
 Corresponding author for study: bab@mit.edu</br>
 Queries regarding usage of three-tiered meta analysis pipeline: nazeen@mit.edu</br>
 
+[![DOI](https://zenodo.org/badge/69980342.svg)](https://zenodo.org/badge/latestdoi/69980342)
+
 ---
 ## Synopsis
 We introduce a three-tiered meta analysis approach for studying the shared genetics of co-ocurring disease conditions in patients from their gene expression profiles. Due to heterogeneity of the nature of microarray studies performed on different patient populations it is difficult to study them through a single lens. We employ Fisher's classic method of combined probabilities to overcome this difficulty. We employ our pipeline to study the shared biology of Autism Spectrum Disorder (ASD) and its highly prevalent co-morbidities and find a shared innate immunity component among them in the following study:
