@@ -1,8 +1,8 @@
 # Three-Tiered Meta Analysis of Gene Expression Profiles of Co-morbid Diseases
-Massachusetts Institute of Technology (mit)
-Computer Science and Artificial Intelligence Laboratory (csail)
-Theory of Computation Group (toc)
-Berger Lab for Computation and Biology (compbio)
+Massachusetts Institute of Technology\\
+Computer Science and Artificial Intelligence Laboratory\\
+Theory of Computation Group\\
+Berger Lab for Computation and Biology\\
 
 Corresponding author for study: bab@mit.edu
 Queries regarding usage of three-tiered meta analysis pipeline: nazeen@mit.edu
