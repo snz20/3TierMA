@@ -33,4 +33,4 @@ Pathway gene sets used in our study can be downloaded from [here](http://groups.
 
 ---
 ## License
-This work is published under MIT License. Permission is hereby granted to whoever obtains a copy of the files associated with our pipeline to use, copy, modify, merge, publish, and distribute free of charge. For details see the license file
+This work is published under MIT License. Permission is hereby granted to whoever obtains a copy of the files associated with our pipeline to use, copy, modify, merge, publish, and distribute free of charge. For details see the license file.
