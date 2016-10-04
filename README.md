@@ -23,7 +23,7 @@ We introduce a three-tiered meta analysis approach for studying the shared genet
 ## Instructions
 1. Use the R code in DiffExprAnalysis-Indiv.R to perform differential expression analysis on individual microarray studies selected under each disease.
 2. Use the pyhton code in combineOutputOfDiffExp.py to combine the output files (step 1) per disease.
-3. Open the output of step 2 in MS Excel and use Excel tools for calculating Fisher's combined p-values per gene. (We have provided the excel file with the formula under the name fisherComboP_disease_gene.xls.
+3. Open the output of step 2 in MS Excel and use Excel tools for calculating Fisher's combined p-values per gene. (We have provided the excel file with the formula zipped under the name fisherComboP_disease_gene.xls.zip.
 4. Use the R code in fdrAdjust.R to adjust Fisher's combine p-values calculated in step 3. The input file should consist of two tab-separated columns . Follow the instructions in the source file to generate the list of significant genes for each disease.
 5. Use the python code in calcOverlap.py to find the overlap between disease gene set and pathway gene sets. The shell script enrichment.sh contains the shell commands to calculate the overlaps using calcOverlap.py.
 6. Use the R code in EnrichmentAnalysis.R on the output from step 5 to perform hypergeometric enrichment analysis of the disease gene sets in the pathway gene sets.
@@ -36,4 +36,4 @@ Pathway gene sets used in our study can be downloaded from [here](http://groups.
 
 ---
 ## License
-This work is published under MIT License.
+This work is published under MIT License. Permission is hereby granted to whoever obtains a copy of the files associated with our pipeline to use, copy, modify, merge, publish, and distribute free of charge. For details see the license file
